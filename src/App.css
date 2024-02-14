@@ -1,0 +1,6 @@
+tbody.table-colors > :nth-child(odd) {
+  background-color: red;
+}
+tbody.table-colors > :nth-child(even) {
+  background-color: blue;
+}
